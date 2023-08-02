@@ -1,0 +1,20 @@
+# pack-refs with: peeled fully-peeled sorted 
+2df6affc96a2c3ff5fdc54bf521398e831c0494b refs/remotes/origin/dev-main
+ebbc44280e6a9118b5309d699bf74e9f40b229bb refs/remotes/origin/feature/update-to-v1.2.0
+93e654a611ab834e5d7b33af7a7ceb9789006f95 refs/remotes/origin/feature/update-to-v1.2.0-live
+6e2fc804dad6dd1c42cc0e0fc0645c9c1f6fd76f refs/remotes/origin/feature/v1.3.0
+95695742b7524629879840217e49be2261f4e3c9 refs/remotes/origin/feature/v1.3.0-live
+70612e5d29c059c5e945c2e41d8e14d00e390469 refs/remotes/origin/feature/v1.3.1
+f1573727d0216a346aa2252828a8a149114fc576 refs/remotes/origin/feature/v1.3.2
+3a43c2e630f4d010bfe9e3bda4a2c3ef52a7b1ee refs/remotes/origin/gh-pages
+f1573727d0216a346aa2252828a8a149114fc576 refs/remotes/origin/main
+64c527c68f259ba252ccc1e49b64f4771450644f refs/remotes/origin/testing
+c318c2fe7afd7ae45bebf8b2d30e604648f56431 refs/remotes/origin/v.1.0.0
+af38be991b1187480d9f58d1b620beef1b6acc70 refs/remotes/origin/v1.0.0-live
+9be21fd4fe147e0bd41d108da4d5f463954468a2 refs/remotes/origin/v1.1.0
+6775702f3f4806a009fb71db7b2ff480f4ac22c3 refs/remotes/origin/v1.1.0-live
+2d0e48011d7c70d3b54ad01fef39b3728fc2d4ad refs/tags/1.2.0
+1ce27c41a6d039e785b9284410bc4cd35932f347 refs/tags/1.3.0
+305951d896155c4c593a9a2bf97fdfc6922af3e9 refs/tags/1.3.1
+f1573727d0216a346aa2252828a8a149114fc576 refs/tags/1.3.2
+8e7ea66116439faeedaff3d9d31dce8bd0d24855 refs/tags/v1.1.0
